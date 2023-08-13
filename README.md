@@ -1,6 +1,6 @@
 ### 김희진 (Heejin Kim)
 
-## 블로그 링크 : https://kcode-recording.tistory.com
+#### 블로그 링크 : https://kcode-recording.tistory.com
 
 <!--
 **Khjin06k/Khjin06k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
