@@ -1,5 +1,6 @@
 ### 김희진 (Heejin Kim)
 
+<br> 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://kcode-recording.tistory.com">
