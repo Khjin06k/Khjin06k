@@ -1,4 +1,5 @@
 ### 김희진 (Heejin Kim)
+Email : khj4209kk@gmail.com
  
 ### 💻 DEV's log 💻
 
