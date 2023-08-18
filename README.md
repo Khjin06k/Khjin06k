@@ -1,7 +1,6 @@
 ### 김희진 (Heejin Kim)
-
-<br> 
-## 💻 DEV's log 💻
+ 
+### 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://kcode-recording.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
@@ -10,7 +9,7 @@
 </div><br>
 
 
-### 🔨 Once I've used 🔨
+<div align = "cneter">🔨 Once I've used 🔨 <div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
