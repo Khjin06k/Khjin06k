@@ -6,11 +6,10 @@
     <a href="https://kcode-recording.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-  
 </div><br>
 
+### 🔨 Once I've used 🔨
 
-<div align = "cneter">🔨 Once I've used 🔨 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
@@ -20,10 +19,7 @@
    	 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
    	 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
     <br>
-	
 </div>
-
-<br>
 
 ![Khjin06k's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khjin06k&show_icons=true&theme=transparent)
 
