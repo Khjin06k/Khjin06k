@@ -2,7 +2,7 @@
 
 #### 블로그 링크 : https://kcode-recording.tistory.com
 
-<div>
+
 div align="center"
 	img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"
 	img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"
