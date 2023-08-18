@@ -1,6 +1,14 @@
 ### 김희진 (Heejin Kim)
 
-#### 블로그 링크 : https://kcode-recording.tistory.com
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://kcode-recording.tistory.com">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+  
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
+</div><br>
+
 
 
 <div align="center">
